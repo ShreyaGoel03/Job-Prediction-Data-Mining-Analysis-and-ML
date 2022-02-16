@@ -1,5 +1,8 @@
 # Job-Prediction-Data-Mining-Analysis-and-ML
+<p align="justify">
 Analysis Report has been attached which contains:
+</p>
+
 1. **Information of the Dataset**<br/>
 &nbsp;&nbsp;a. type/Count and Non Null information about the dataset<br/>
 &nbsp;&nbsp;b. unique values in each Non Numeric column<br/>
